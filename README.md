@@ -18,3 +18,5 @@
 - [x] get an indie world direct
 - [ ] get hopes up for silkong
 - [ ] get no silksong
+
+# the plan worked
